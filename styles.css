@@ -3,21 +3,15 @@ h1{
 }
  #para1{
 
-        color:yellow;
+        color:rgb(123, 0, 255);
     }
  #para2{
-            color:brown;
+            color:rgb(165, 42, 128);
             border-style: solid;
             border-radius: 20px;
             border-color: aqua;
-            background-color:purple;
-            border-top-style:dotted;
-    
- .one{
-    font-style:italic;
-    font-size
-    color:blanchedalmond;
-    background-color:black
+            background-color:rgb(0, 32, 128);
+            border-top-style:dotted
 }
         
 
