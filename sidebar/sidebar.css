@@ -81,4 +81,18 @@ a:hover{
     font-size:25px;
 
 
+
 }
+.contactss{
+    border: solid black 4px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+     border-radius: 5px;
+     background-color: grey;
+     margin:auto;
+     width:600px;
+     height:auto;
+     padding: 20px;
+}
+
